@@ -1,6 +1,6 @@
 # Open Source TypeScript
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-TypeScript-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/TypeScript)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/TypeScript)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 > :wrench:  TypeScript é um projeto base com uso de TypeScript em NodeJS, com codigo limpo e pronto para ser implementado. <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -26,7 +26,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE) ©
 
 [TypeScript]: <https://www.typescriptlang.org/>
 [Node.js]: <https://nodejs.org/>
